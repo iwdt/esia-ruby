@@ -1,0 +1,5 @@
+github.com/Theo730/gogost v0.0.0-20211229144118-faedeafd51f0 h1:NegUdP/m0UKSLWr/AgevLoq1IcKy11ROhVQl5i9QLFM=
+github.com/Theo730/gogost v0.0.0-20211229144118-faedeafd51f0/go.mod h1:VfI74Kh9H7RrETFGhCjpSaVruUsfDAQ254We5rNEBWc=
+github.com/Theo730/pkcs7 v0.0.0-20211230050334-9eb054d848b2 h1:bLQcw5Mp4GY9jYkPS8ZokbrgyhdLkg3YY5DBcKdYeuA=
+github.com/Theo730/pkcs7 v0.0.0-20211230050334-9eb054d848b2/go.mod h1:imux5mgSBawHUsZkbKjPn41DtYvz5flP4haB84BX8iE=
+golang.org/x/crypto v0.0.0-20210503195802-e9a32991a82e h1:8foAy0aoO5GkqCvAEJ4VC4P3zksTg4X4aJCDpZzmgQI=

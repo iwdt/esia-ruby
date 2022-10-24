@@ -1,0 +1,21 @@
+# Extensions
+require:
+  - rubocop-performance
+  - rubocop-rspec
+
+Performance:
+  Enabled: true
+
+# Global
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 2.7
+  Exclude:
+    - vendor/**/*
+    - bin/*
+
+Metrics/ParameterLists:
+  Enabled: false
+
+Metrics/MethodLength:
+  Max: 30

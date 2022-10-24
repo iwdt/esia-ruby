@@ -1,0 +1,12 @@
+/.bundle
+/log/*
+/tmp/*
+/coverage
+.byebug_history
+vendor/bundle
+vendor/cache
+.env*
+!.env.example
+ext/**/*.so
+ext/**/*.h
+.DS_Store
